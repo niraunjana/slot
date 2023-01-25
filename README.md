@@ -119,9 +119,10 @@ Execute the program
 </body>
 </html>
 # OUPUT:
-![WhatsApp Image 2023-01-25 at 10 28 37](https://user-images.githubusercontent.com/119395610/214483875-276faa59-f092-4d8d-b733-106c9a575c08.jpg)
 
-Result:
+![WhatsApp Image 2023-01-25 at 10 28 35](https://user-images.githubusercontent.com/119395610/214484940-5d783acc-11d0-43c3-b902-3a07c7ff4833.jpg)
+
+# Result:
 Successfully created the timetable
 
 
