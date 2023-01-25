@@ -25,7 +25,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - NIRAUNJANA GAYATHRI G R (22008369)</b></caption>
+<caption><b>SLOT TIME TABLE - YOHESH KUMAR (22008459)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -118,7 +118,6 @@ Execute the program
 </table>
 </body>
 </html>
-
 # OUPUT:
 ![WhatsApp Image 2023-01-25 at 10 28 37](https://user-images.githubusercontent.com/119395610/214483875-276faa59-f092-4d8d-b733-106c9a575c08.jpg)
 
