@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -118,6 +119,7 @@ Execute the program
 </table>
 </body>
 </html>
+```
 # OUPUT:
 
 ![WhatsApp Image 2023-01-25 at 10 28 35](https://user-images.githubusercontent.com/119395610/214484940-5d783acc-11d0-43c3-b902-3a07c7ff4833.jpg)
